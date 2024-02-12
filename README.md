@@ -2,4 +2,4 @@
 Assigning Investigations: supplementary materials
 
 Content:
-1. Java program with solution to base problem - used for varying number of choices
+1. Java program with solution to base problem - used for varying number of choices using nested loops.
